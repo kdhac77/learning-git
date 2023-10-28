@@ -1,5 +1,5 @@
 print("Liczby podzielne przez 5:")
-for number in range(1, 80):
+for number in range(1, 111):
     if number % 5 == 0:
         print(number)
 
