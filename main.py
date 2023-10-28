@@ -5,5 +5,5 @@ for number in range(1, 111):
 
 print("Liczby podniesione do potęgi 3:")
 for number in range(1, 76):
-    result = number ** 3
+    result = number ** 2
     print(result)
